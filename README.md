@@ -193,6 +193,9 @@ Donations
 =========
 Donations for the work done in this fork are accepted :
 
+JVPACOIN
+* bc1qmyhuv4cmzz5xezgufee7u8rkemspxxd0wyk3yy
+
 Tanguy Pruvot :
 * BTC: `1FhDPLPpw18X4srecguG3MxJYe4a1JsZnd`
 
