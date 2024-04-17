@@ -1,7 +1,7 @@
 /**
- * Unit to read cpu informations
+ * System CPU information, cpu temp etc..
  *
- * tpruvot 2014
+ * jvpacoin 2024
  */
 
 #include <stdio.h>
